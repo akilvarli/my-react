@@ -1,0 +1,24 @@
+{
+
+    "users" :  [ 
+        { 
+        "id" : "unique-1",
+        "name" : "Mustafa Çetin",
+        "salary" : "3000",
+        "department" : "Asistan"
+      },
+      {
+        "id" : "unique-2",
+        "name" : "Akil Varlı",
+        "salary" : "17000",
+        "department" : "CEO"
+      },
+      {
+        "id" :  "unique-3",
+        "name" : "Ömer Üstündağ",
+        "salary" : "6000",
+        "department" : "Bilişim"
+      }
+      
+    ]
+}
